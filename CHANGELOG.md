@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.1...v0.0.2) (2023-06-13)
+
+
+### Build Systems
+
+* **npm:** delete unusable cz-conventional-changelog ([27afb42](https://github.com/WaveOfDandelions/HAAAAATE/commit/27afb42dc330b4662df9380bbba7f0e59bb6d187))
+
 ## 0.0.1 (2023-06-13)
 
 
