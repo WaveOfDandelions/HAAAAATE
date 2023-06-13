@@ -1,0 +1,37 @@
+{
+  "name": "haaaaate",
+  "version": "0.0.1",
+  "description": "Gulp Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "commit": "cz", 
+    "release": "git push --follow-tags origin main",
+    "update": "git pull"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaveOfDandelions/HAAAAATE.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Boilerplate",
+    "JavaScript"
+  ],
+  "author": "Wave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WaveOfDandelions/HAAAAATE/issues"
+  },
+  "homepage": "https://github.com/WaveOfDandelions/HAAAAATE#readme",
+  "dependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3"
+  }
+}
