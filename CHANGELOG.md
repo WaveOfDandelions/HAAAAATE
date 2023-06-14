@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.3...v0.0.4) (2023-06-14)
+
+
+### Bug Fixes
+
+* **ci:** fix release please changelog ([0c0e8b5](https://github.com/WaveOfDandelions/HAAAAATE/commit/0c0e8b5b9f3d5cd831ad1bb1131137d5f51b8670))
+
 ## [0.0.3](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.1.0...v0.0.3) (2023-06-14)
 
 
