@@ -6,8 +6,7 @@
 ### Features
 
 * **code style:** add editorconfig, prettier, eslint and autoedit code on save file ([794ae4a](https://github.com/WaveOfDandelions/HAAAAATE/commit/794ae4a0f5cfc214b9d5f12f855d1914c609dd41))
-* **code style:** add editorconfig, prettier, eslint and autoedit code on save file ([a582566](https://github.com/WaveOfDandelions/HAAAAATE/commit/a5825661be0da9253cb90a1b1b2014764604c2e9))
-* **libraries:** add animation library ([bad2ec4](https://github.com/WaveOfDandelions/HAAAAATE/commit/bad2ec4d9eced6f267ecddf4591d4448656b9f62))
+
 
 
 ### Bug Fixes
@@ -21,11 +20,6 @@
 
 
 ### Miscellaneous
-
-* **main:** release 0.0.1 ([2e2dbbe](https://github.com/WaveOfDandelions/HAAAAATE/commit/2e2dbbea26085c241ed49f73859198739aa859f0))
-* **main:** release 0.0.2 ([8aaa491](https://github.com/WaveOfDandelions/HAAAAATE/commit/8aaa491ccebc5fc45903bf358f20b8ec8330635a))
-* **main:** release 0.1.0 ([e012c6c](https://github.com/WaveOfDandelions/HAAAAATE/commit/e012c6cb7a8e0dc7f79643f3de21b15d64781658))
-* release 0.0.1 ([9be1e4e](https://github.com/WaveOfDandelions/HAAAAATE/commit/9be1e4ea2e0f584b0b9f6f3ad07c8e962edc4796))
 * release 0.0.3 ([2fedf3b](https://github.com/WaveOfDandelions/HAAAAATE/commit/2fedf3b3f67964231008668711daeeae34121752))
 
 ## [0.0.2](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.1...v0.0.2) (2023-06-13)
@@ -33,7 +27,8 @@
 ### Build Systems
 
 - **npm:** delete unusable cz-conventional-changelog ([27afb42](https://github.com/WaveOfDandelions/HAAAAATE/commit/27afb42dc330b4662df9380bbba7f0e59bb6d187))
-
+### Miscellaneous
+* **main:** release 0.0.2 ([8aaa491](https://github.com/WaveOfDandelions/HAAAAATE/commit/8aaa491ccebc5fc45903bf358f20b8ec8330635a))
 ## 0.0.1 (2023-06-13)
 
 ### Features
