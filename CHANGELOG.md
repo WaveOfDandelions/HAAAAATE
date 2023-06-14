@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.5](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.4...v0.0.5) (2023-06-14)
+
+
+### Features
+
+* **lib:** add gulp v4 ([20d030e](https://github.com/WaveOfDandelions/HAAAAATE/commit/20d030e0c4639925d53cd3e2e91d5a8abd4b79d6))
+
+
+### Miscellaneous
+
+* release 0.0.5 ([72f81c9](https://github.com/WaveOfDandelions/HAAAAATE/commit/72f81c9f3da265878aa44ebc6f85d4aaeca19ab9))
+
 ## [0.0.4](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.3...v0.0.4) (2023-06-14)
 
 
