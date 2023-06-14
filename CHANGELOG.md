@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.7](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.6...v0.0.7) (2023-06-14)
+
+
+### CI/CD
+
+* **ci:** delete test files ([3003ff7](https://github.com/WaveOfDandelions/HAAAAATE/commit/3003ff793e1bee52b81efbc245bf5b7ae1c310d4))
+
 ## [0.0.6](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.5...v0.0.6) (2023-06-14)
 
 
