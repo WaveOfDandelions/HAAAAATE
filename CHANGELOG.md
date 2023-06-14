@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.2...v0.1.0) (2023-06-14)
+
+
+### Features
+
+* **code style:** add editorconfig, prettier, eslint and autoedit code on save file ([a582566](https://github.com/WaveOfDandelions/HAAAAATE/commit/a5825661be0da9253cb90a1b1b2014764604c2e9))
+
 ## [0.0.2](https://github.com/WaveOfDandelions/HAAAAATE/compare/v0.0.1...v0.0.2) (2023-06-13)
 
 
